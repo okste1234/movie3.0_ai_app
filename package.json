@@ -54,7 +54,7 @@
     "eslint-plugin-react-hooks": "^4.6.0"
   },
   "description": "",
-  "main": ".eslintrc.js",
   "author": "Adekunle Stephen",
-  "license": "ISC"
+  "license": "ISC",
+  "main": ".eslintrc.js"
 }
