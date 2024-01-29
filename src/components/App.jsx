@@ -6,10 +6,11 @@ import { Movies, MovieInformation, Profile, Actors, NavBar } from '.';
 
 function App() {
   return (
-    <div>
+    <div classname="root">
       <CssBaseline />
       <NavBar />
-      <main>
+      <main classname="content">
+        <div classname="toolbar" />
         <Routes>
 
           <Route
